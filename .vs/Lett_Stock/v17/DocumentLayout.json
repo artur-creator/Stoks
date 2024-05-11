@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tauru\\source\\repos\\Lett_Stock\\",
+  "WorkspaceRootPath": "C:\\Users\\tauru\\source\\repos\\Lett_Stock\\Stoks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8446419E-6190-4975-B6FA-47BC49B2A456}|Lett_Stock.vcxproj|C:\\Users\\tauru\\source\\repos\\Lett_Stock\\Lett_Stock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8446419E-6190-4975-B6FA-47BC49B2A456}|Lett_Stock.vcxproj|C:\\Users\\tauru\\source\\repos\\Lett_Stock\\Stoks\\Lett_Stock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8446419E-6190-4975-B6FA-47BC49B2A456}|Lett_Stock.vcxproj|solutionrelative:Lett_Stock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lett_Stock.cpp",
-              "DocumentMoniker": "C:\\Users\\tauru\\source\\repos\\Lett_Stock\\Lett_Stock.cpp",
+              "DocumentMoniker": "C:\\Users\\tauru\\source\\repos\\Lett_Stock\\Stoks\\Lett_Stock.cpp",
               "RelativeDocumentMoniker": "Lett_Stock.cpp",
-              "ToolTip": "C:\\Users\\tauru\\source\\repos\\Lett_Stock\\Lett_Stock.cpp",
+              "ToolTip": "C:\\Users\\tauru\\source\\repos\\Lett_Stock\\Stoks\\Lett_Stock.cpp",
               "RelativeToolTip": "Lett_Stock.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-11T14:41:46.483Z",
               "EditorCaption": ""
